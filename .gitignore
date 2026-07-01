@@ -1,0 +1,7 @@
+similarity.pkl
+movies.pkl
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
