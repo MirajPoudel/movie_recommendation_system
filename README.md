@@ -21,8 +21,7 @@ It recommends movies based on similarity of genres, cast, crew, keywords, and ov
 - Important features (genres, keywords, cast, crew, overview) are combined  
 - Text is converted into vectors using ML techniques like CountVectorizer / TF-IDF  
 - Cosine similarity is used to find similar movies  
-- Top matching movies are recommended to the user  
-
+- Top matching movies are recommended to the user .
 ---
 
 # 🛠️ Technologies Used
