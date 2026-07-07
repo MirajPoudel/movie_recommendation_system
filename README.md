@@ -1,7 +1,7 @@
 # 🎬 CinePickAI
 
 A content-based movie recommendation system built using Python, Machine Learning, and Streamlit.  
-It recommends movies based on similarity of genres, cast, crew, keywords, and overview, and uses the TMDB API to display movie posters and details
+It recommends movies based on similarity of genres, cast, crew, keywords, and overview, and uses the TMDB API to display movie posters and details.
 
 ---
 
